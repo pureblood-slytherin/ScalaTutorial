@@ -75,8 +75,4 @@ object FunctionalProgramming extends App{
   )
   println(SurnameBook)
 
-
-
-
-
 }
